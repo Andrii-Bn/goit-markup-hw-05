@@ -582,7 +582,7 @@ img {
   border: none;
 }
 .modal-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-label {
@@ -593,8 +593,11 @@ img {
   margin-bottom: 4px;
   display: block;
 }
-.modal-coment-wrap {
+.heckbox-wrap {
   margin-bottom: 24px;
+}
+.modal-coment-wrap {
+  margin-bottom: 16px;
 }
 .modal-input {
   width: 100%;
@@ -678,7 +681,7 @@ img {
   height: 16px;
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
-  display: flex;
+  display: inline-flex;
   margin-right: 8px;
   align-items: center;
   justify-content: center;
