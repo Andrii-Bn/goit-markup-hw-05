@@ -449,7 +449,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  margin-bottom: 16px;
 }
 .footer-input {
   background-color: transparent;
@@ -478,7 +477,6 @@ img {
   padding: 8px 24px;
   background: #4d5ae5;
   color: #fff;
-  gap: 16px;
   right: 0;
   min-width: 165px;
   height: 40px;
